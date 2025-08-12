@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "sharedFramework",
+    name: "ComposeApp",
     platforms: [
         .iOS(.v13)
     ],
